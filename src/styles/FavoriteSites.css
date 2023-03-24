@@ -1,0 +1,16 @@
+.sites a{
+    margin: 20px;
+}
+
+.sites a:link, a:visited {
+    color: lightgreen;
+}
+  
+.sites a:hover {
+    color: red;
+}
+
+.sites ul{
+    padding: 0;
+    list-style-type: none;
+}
